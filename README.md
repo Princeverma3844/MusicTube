@@ -1,6 +1,6 @@
 # MusicTube: Advanced Music Search and Recommendation System
 
-MusicTube is a sophisticated video streaming website built on the MERN stack, incorporating cutting-edge deep learning techniques for search and recommendation functionalities. It offers a seamless user experience for discovering and enjoying music videos.
+MusicTube is a sophisticated video streaming website ntegrating advanced deep learning for search and recommendations, built on the MERN stack, incorporating cutting-edge deep learning techniques for search and recommendation functionalities. It offers a seamless user experience for discovering and enjoying music videos.
 
 ## Key Features
 
