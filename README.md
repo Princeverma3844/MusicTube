@@ -4,7 +4,7 @@ MusicTube is a sophisticated video streaming website built on the MERN stack, in
 
 ## Key Features
 
-- **Advanced Deep Learning Approach**: Utilizes state-of-the-art deep learning algorithms to power the search and recommendation system, ensuring accurate and personalized music recommendations.
+- **Advanced Deep Learning Approach**: Utilizes state-of-the-art deep learning algorithm ([Link Text](https://github.com/Princeverma3844/Ultimate-Music-Search-Engine)) to power the search and recommendation system, ensuring accurate and personalized music recommendations.
 - **MERN Stack**: Utilizes MongoDB, Express.js, React, and Node.js for a full-stack development approach, providing a robust and scalable architecture.
 
 - **React Frontend**:
