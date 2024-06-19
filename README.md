@@ -5,16 +5,30 @@ MusicTube is a sophisticated video streaming website built on the MERN stack, in
 ## Key Features
 
 - **Advanced Deep Learning Approach**: Utilizes state-of-the-art deep learning algorithms to power the search and recommendation system, ensuring accurate and personalized music recommendations.
-- **MERN Stack**: Built with MongoDB, Express.js, React, and Node.js, providing a robust and scalable architecture.
-- **Search Functionality**: Users can search for music videos using advanced search algorithms that analyze content, metadata, and user preferences.
-- **Recommendation System**: Offers personalized music recommendations based on user behavior, preferences, and historical data.
-- **User Profiles**: Users can create and manage profiles, save favorite videos, and receive tailored recommendations.
-- **Responsive Design**: Responsive and user-friendly design ensures a seamless experience across devices.
+- **MERN Stack**: Utilizes MongoDB, Express.js, React, and Node.js for a full-stack development approach, providing a robust and scalable architecture.
 
-## Installation
+- **React Frontend**:
+  - Built with React.js for a dynamic and interactive user interface.
+  - Offers seamless navigation and video playback functionalities.
 
-1. Clone the repository:
+- **Node.js Backend**:
+  - Employs Node.js with Express.js to create a powerful and efficient backend server.
+  - Handles API requests, authentication, and data management.
 
-   ```bash
-   git clone https://github.com/yourusername/musictube.git
-   cd musictube
+- **MongoDB Database**:
+  - Utilizes MongoDB for storing user data, video metadata, and application information.
+  - Ensures data persistence and reliability.
+
+- **Redux Toolkit**:
+  - Integrates Redux Toolkit for state management.
+  - Enables efficient data flow and centralized state management across components.
+
+- **JWT Authentication**:
+  - Implements JWT (JSON Web Tokens) for secure user authentication and authorization.
+  - Ensures user sessions remain authenticated and protected.
+
+- **Cookie Management**:
+  - Utilizes cookies, including JWT cookies, for managing user sessions.
+  - Provides a seamless login/logout experience.
+
+## Demo Video
